@@ -1,4 +1,4 @@
-# Week 1 — Building the Helpdesk UI
+# Lab Helpdesk App UI/UX
 
 Over the coming weeks we will build a **support helpdesk** application, adding a new layer each week as we learn new
 concepts. By the end it will even have its own **local AI agent** that drafts
